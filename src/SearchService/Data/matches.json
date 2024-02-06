@@ -1,0 +1,374 @@
+[
+    {
+        "naughtsPlayer": "elliot",
+        "crossesPlayer": "charlotte",
+        "match": [
+            {
+                "1": [
+                    "x",
+                    "c",
+                    "x"
+                ]
+            },
+            {
+                "2": [
+                    "c",
+                    "x",
+                    "c"
+                ]
+            },
+            {
+                "3": [
+                    "x",
+                    "c",
+                    "x"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2024-03-10T00:00:00.000Z",
+        "endDate": "2024-04-10T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "sarah",
+        "crossesPlayer": "mark",
+        "match": [
+            {
+                "1": [
+                    "s",
+                    "m",
+                    "s"
+                ]
+            },
+            {
+                "2": [
+                    "m",
+                    "s",
+                    "m"
+                ]
+            },
+            {
+                "3": [
+                    "s",
+                    "m",
+                    "s"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2024-05-15T00:00:00.000Z",
+        "endDate": "2024-06-15T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "elliot",
+        "crossesPlayer": "sarah",
+        "match": [
+            {
+                "1": [
+                    "x",
+                    "o",
+                    "x"
+                ]
+            },
+            {
+                "2": [
+                    "o",
+                    "x",
+                    "o"
+                ]
+            },
+            {
+                "3": [
+                    "x",
+                    "o",
+                    "x"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2024-07-20T00:00:00.000Z",
+        "endDate": "2024-08-20T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "mark",
+        "crossesPlayer": "charlotte",
+        "match": [
+            {
+                "1": [
+                    "m",
+                    "c",
+                    "m"
+                ]
+            },
+            {
+                "2": [
+                    "c",
+                    "m",
+                    "c"
+                ]
+            },
+            {
+                "3": [
+                    "m",
+                    "c",
+                    "m"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2024-09-25T00:00:00.000Z",
+        "endDate": "2024-10-25T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "charlotte",
+        "crossesPlayer": "sarah",
+        "match": [
+            {
+                "1": [
+                    "c",
+                    "s",
+                    "c"
+                ]
+            },
+            {
+                "2": [
+                    "s",
+                    "c",
+                    "s"
+                ]
+            },
+            {
+                "3": [
+                    "c",
+                    "s",
+                    "c"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2024-11-30T00:00:00.000Z",
+        "endDate": "2025-01-01T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "elliot",
+        "crossesPlayer": "mark",
+        "match": [
+            {
+                "1": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            },
+            {
+                "2": [
+                    "m",
+                    "x",
+                    "m"
+                ]
+            },
+            {
+                "3": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2025-02-05T00:00:00.000Z",
+        "endDate": "2025-03-05T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "sarah",
+        "crossesPlayer": "charlotte",
+        "match": [
+            {
+                "1": [
+                    "s",
+                    "c",
+                    "s"
+                ]
+            },
+            {
+                "2": [
+                    "c",
+                    "s",
+                    "c"
+                ]
+            },
+            {
+                "3": [
+                    "s",
+                    "c",
+                    "s"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2025-04-10T00:00:00.000Z",
+        "endDate": "2025-05-10T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "elliot",
+        "crossesPlayer": "mark",
+        "match": [
+            {
+                "1": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            },
+            {
+                "2": [
+                    "m",
+                    "x",
+                    "m"
+                ]
+            },
+            {
+                "3": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2025-06-15T00:00:00.000Z",
+        "endDate": "2025-07-15T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "charlotte",
+        "crossesPlayer": "sarah",
+        "match": [
+            {
+                "1": [
+                    "c",
+                    "s",
+                    "c"
+                ]
+            },
+            {
+                "2": [
+                    "s",
+                    "c",
+                    "s"
+                ]
+            },
+            {
+                "3": [
+                    "c",
+                    "s",
+                    "c"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "endDate": "2025-09-20T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "elliot",
+        "crossesPlayer": "mark",
+        "match": [
+            {
+                "1": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            },
+            {
+                "2": [
+                    "m",
+                    "x",
+                    "m"
+                ]
+            },
+            {
+                "3": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2025-10-25T00:00:00.000Z",
+        "endDate": "2025-11-25T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "sarah",
+        "crossesPlayer": "charlotte",
+        "match": [
+            {
+                "1": [
+                    "s",
+                    "c",
+                    "s"
+                ]
+            },
+            {
+                "2": [
+                    "c",
+                    "s",
+                    "c"
+                ]
+            },
+            {
+                "3": [
+                    "s",
+                    "c",
+                    "s"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2025-12-30T00:00:00.000Z",
+        "endDate": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "naughtsPlayer": "elliot",
+        "crossesPlayer": "mark",
+        "match": [
+            {
+                "1": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            },
+            {
+                "2": [
+                    "m",
+                    "x",
+                    "m"
+                ]
+            },
+            {
+                "3": [
+                    "x",
+                    "m",
+                    "x"
+                ]
+            }
+        ],
+        "winner": null,
+        "loser": null,
+        "startDate": "2026-02-28T00:00:00.000Z",
+        "endDate": "2026-03-28T00:00:00.000Z"
+    }
+]
